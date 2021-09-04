@@ -17,5 +17,13 @@ delay = 5 # Delay between messages
 
 
 ##### Do not use this selfbots! It is against the Discord Terms of Service! I made and uploaded this spammer to show skids how easy it is to program in python. (Yes)
-##### If you do use this selfbot, PiggyAwesome will not be held responsible if anything happens with your account or anything you used this selfbot for.
+##### If you do use this selfbot, Social404 will not be held responsible if anything happens with your account or anything you used this selfbot for.
 
+# Host On Replit
+## [Click Here](https://replit.com/@Social404/Auto-Bumper)
+# Donate
+[PayPal](https://paypal.me/notsocial404)
+
+BTC Address: 32aXA82zx5cAjQJYFh9CqnxjKEoY3VByCc
+
+Donate Or Gay :D
